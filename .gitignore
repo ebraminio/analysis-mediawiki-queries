@@ -1,0 +1,6 @@
+PhpLexer.*
+PhpLexerBase.*
+PhpParser.*
+PhpParserListener.*
+mediawiki
+transformGrammar.py
