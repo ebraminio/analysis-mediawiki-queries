@@ -4,3 +4,4 @@ PhpParser.*
 PhpParserListener.*
 mediawiki
 transformGrammar.py
+antlr-4.11.1-complete.jar
